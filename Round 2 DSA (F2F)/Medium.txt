@@ -1,0 +1,18 @@
+🚀 Awesome work so far!
+Now it’s time for some medium-level challenges.
+At Atlassian, autonomy and accountability are huge, and this round will test your ability to build smart, efficient solutions.
+Aim for clean, scalable code, and remember: innovation is key!
+💻 Good luck!🎯
+
+
+Course Schedule                                        Medium          [Course Schedule](https://leetcode.com/problems/course-schedule/)                 
+Top K Frequent Elements                                Medium          [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) 
+Search in Rotated Sorted Array                         Medium          [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+Word Ladder                                            Medium          [Word Ladder](https://leetcode.com/problems/word-ladder/)                         
+LRU Cache                                              Medium          [LRU Cache](https://leetcode.com/problems/lru-cache/)                             
+Find Kth Largest Element in an Array                   Medium          [Kth Largest Element](https://leetcode.com/problems/kth-largest-element-in-an-array/)  
+Spiral Matrix                                          Medium          [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                     
+Permutations                                           Medium          [Permutations](https://leetcode.com/problems/permutations/)                       
+Evaluate Reverse Polish Notation                       Medium          [Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)  
+Set Matrix Zeroes                                      Medium          [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)             
+Decode Ways                                            Medium          [Decode Ways](https://leetcode.com/problems/decode-ways/) 

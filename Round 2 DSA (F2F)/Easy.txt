@@ -1,0 +1,14 @@
+Congrats on clearing Round 1!🌟🚀
+Welcome to Round 2!
+You’re already halfway there.
+Atlassian’s value of "Be the change you seek" is all about owning your work, and in this round of easy-level questions, we want to see how quickly and efficiently you can solve problems.
+Keep up the momentum!⚡
+ 
+ 
+ Reverse Linked List                                    Easy            [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)         
+ Palindrome Linked List                                 Easy            [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)   
+ Best Time to Buy and Sell Stock                        Easy            [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+ Min Stack                                              Easy            [Min Stack](https://leetcode.com/problems/min-stack/)                             
+ Symmetric Tree                                         Easy            [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                   
+ Majority Element                                       Easy            [Majority Element](https://leetcode.com/problems/majority-element/)               
+ Linked List Cycle                                      Easy            [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
