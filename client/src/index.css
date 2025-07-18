@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  body {
+    @apply bg-secondary-50 text-secondary-900 font-sans;
+  }
+}
+
+@layer components {
+    .btn {
+        @apply px-4 py-2 rounded-lg font-medium transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2;
+    }
+
+    .btn-primary {
+        @apply btn bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500;
+    }
+
+    .btn-secondary {
+        @apply btn bg-secondary-200 text-secondary-800 hover:bg-secondary-300 focus:ring-secondary-500;
+    }
+
+    .btn-success {
+        @apply btn bg-success-600 text-white hover:bg-success-700 focus:ring-success-500;
+    }
+
+    .btn-error {
+        @apply btn bg-error-600 text-white hover:bg-error-700 focus:ring-error-500;
+    }
+
+    .input {
+        @apply w-full px-3 py-2 border border-secondary-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all duration-200;
+    }
+
+    .card {
+        @apply bg-white rounded-xl shadow-sm border border-secondary-200;
+    }
+
+    .message-bubble {
+        @apply max-w-xs lg:max-w-md px-4 py-2 rounded-2xl break-words;
+    }
+
+    .message-bubble-sent {
+        @apply message-bubble bg-primary-600 text-white ml-auto;
+    }
+
+    .message-bubble-received {
+        @apply message-bubble bg-secondary-100 text-secondary-900;
+    }
+
+    .scrollbar-hide {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+    .scrollbar-hide::-webkit-scrollbar {
+        display: none;
+    }
+
+    .typing-indicator {
+        @apply flex space-x-1 px-4 py-2;
+    }
+
+    .typing-dot {
+        @apply w-2 h-2 bg-secondary-400 rounded-full animate-bounce;
+    }
+
+    .typing-dot:nth-child(2) {
+        animation-delay: 0.1s;
+    }
+
+    .typing-dot:nth-child(3) {
+        animation-delay: 0.2s;
+    }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-gradient-to-r from-primary-600 to-primary-800 bg-clip-text text-transparent;
+  }
+  
+  .bg-gradient {
+    @apply bg-gradient-to-br from-primary-50 to-secondary-50;
+  }
+  
+  .shadow-soft {
+    box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04);
+  }
+  
+  .backdrop-blur {
+    backdrop-filter: blur(8px);
+  }
+}
